@@ -1,0 +1,92 @@
+:root {
+    --bg-color: #ffffff;
+    --text-color: #000000;
+    --card-bg-color: #f8f9fa;
+}
+
+.dark-mode {
+    background: linear-gradient(45deg, #333, #222);
+    color: #ccc;
+}
+
+body.dark-mode {
+    --bg-color: #2e2e2e;
+    --text-color: #ffffff;
+    --card-bg-color: #444444;
+}
+.nav-link , .navbar-brand{
+    color:#ffffff;
+}
+.navbar{
+    background-color: #2b75e3; 
+}
+.navbar-dark{
+    background-color: #171717; 
+}
+
+#theme{
+    border-color: #ffffff;
+    color: #ffffff;
+}
+
+body {
+    background: linear-gradient(45deg, #eeeeee, rgb(219, 219, 219));
+    font-family: Arial, sans-serif;
+}
+
+.card-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+#article .card {
+    flex-basis: 48%;
+    margin: 1%;
+}
+
+.card {
+    background-color: var(--card-bg-color);
+    color: var(--text-color); /* Added to ensure card text is readable */
+    transition: background-color 0.3s, color 0.3s;
+}
+
+
+.card:hover {
+    transform: scale(1.02);
+}
+.article-title {
+    color: #007bff;
+    text-decoration: none;
+}
+.article-title:hover {
+    color: #0056b3;
+    text-decoration: underline;
+}
+.navbar-brand img {
+    height: 100px;
+    width: auto;
+    margin-right: 20px;
+}
+.navbar-container {
+    background-color: #007bff; 
+}
+
+.header-bottom {
+    background-color: white; 
+    padding: 10px 0; 
+}
+
+#article {
+    background-color: var(--bg-color); /* Matches the main content area to background */
+    padding: 10px;
+}
+
+footer{
+    background-color: #444444;
+}
+
+.upd-image{
+    height: 200px;
+    width: 100%;
+    padding-bottom: 10px;
+}
+

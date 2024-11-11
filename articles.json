@@ -1,0 +1,105 @@
+{
+    "articles": [
+      {
+        "id": 1,
+        "title": "Liberty City Mayor's 1998 Mob Ties Resurface Amid New Evidence",
+        "date": "2024-10-20",
+        "category": "Politics",
+        "content": "Liberty City is reeling after a shocking revelation: newly discovered documents suggest that the city's 1998 mayor had longstanding ties to the Leone crime family. The mayor allegedly received 'financial support'...",
+        "views": 230,
+        "wordCount": 520,
+        "image":"https://i.ytimg.com/vi/II1uCunV3g8/sddefault.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Vice City Crime Boss Tommy Vercetti Walks Free Due to Lack of Evidence",
+        "date": "2024-09-12",
+        "category": "Crime & Justice",
+        "content": "In an unexpected court ruling, former Vice City crime lord Tommy Vercetti has been acquitted of drug trafficking charges due to insufficient evidence. Despite years of surveillance and multiple witness testimonies...",
+        "views": 410,
+        "wordCount": 560,
+        "image":"https://media.tenor.com/t8qm1FT5uAYAAAAM/you-so-funny.gif"
+      },
+      {
+        "id": 3,
+        "title": "UFO Files Leaked in San Andreas - Alien Cover-up Alleged",
+        "date": "2024-08-15",
+        "category": "Science & Mystery",
+        "content": "A mysterious leak has revealed what appear to be classified government files on UFO sightings across San Andreas. The documents, which include reports from conspiracy theorist 'The Truth,' suggest alien encounters were covered up by authorities in the 90s...",
+        "views": 615,
+        "wordCount": 600,
+        "image":"https://digitalsynopsis.com/wp-content/uploads/2017/12/funny-agency-life-creative-designer-copywriter-memes-1.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Liberty City’s Niko Bellic Speaks Out: 'The System Left Me No Choice'",
+        "date": "2024-10-05",
+        "category": "Crime & Society",
+        "content": "In a rare interview, Liberty City's notorious immigrant Niko Bellic blames his turn to crime on the city's systemic poverty and lack of support. Bellic, whose criminal past has garnered...",
+        "views": 760,
+        "wordCount": 540,
+        "image":"https://media.tenor.com/T2sgUDZt6CcAAAAM/hi-hello.gif"
+      },
+      {
+        "id": 5,
+        "title": "Meth Operations in Blaine County Linked to Police Collusion",
+        "date": "2024-07-30",
+        "category": "Government & Corruption",
+        "content": "Blaine County is under scrutiny following leaked documents suggesting local police have been colluding with notorious meth operations. Allegations include police accepting bribes to ignore the activities of criminal figure Trevor Philips...",
+        "views": 845,
+        "wordCount": 570,
+        "image":"https://media.tenor.com/RGl7U21AlF8AAAAM/que-pasa.gif"
+      },
+      {
+        "id": 6,
+        "title": "Power Struggle within Triads Turns Liberty City’s Chinatown into a War Zone",
+        "date": "2024-10-25",
+        "category": "Crime",
+        "content": "Liberty City's Chinatown has seen a dramatic uptick in violence as rival Triad factions battle for power. The recent arrest of key leaders has left a power vacuum...",
+        "views": 530,
+        "wordCount": 560,
+        "image":"https://media.istockphoto.com/id/1160791767/photo/laughing-horse.jpg?s=612x612&w=0&k=20&c=_63iHrEConkZdSHORyIjOl7N4R4hxwKCZrwXmt8wptw="
+      },
+      {
+        "id": 7,
+        "title": "The Story of Victor Vance: A Soldier, A Kingpin, A Tragic End",
+        "date": "2024-09-01",
+        "category": "History",
+        "content": "Newly declassified records have cast light on Victor Vance's life, a former soldier whose tragic turn to crime in Vice City’s drug trade continues to captivate...",
+        "views": 265,
+        "wordCount": 540,
+        "image":"https://i.pinimg.com/736x/67/76/7f/67767f14c63ad5d308a5bdea6580e6c0.jpg"
+      },
+      {
+        "id": 8,
+        "title": "London's 1969 Mob Wars Exposed: Brutal Power Struggles Shock the Public",
+        "date": "2024-10-15",
+        "category": "Crime",
+        "content": "A retired London detective has revealed new details about the brutal mob wars that swept through London in 1969. Gangs reportedly fought over control of lucrative crime operations, turning parts of the city into war zones. Many locals remember the fear and chaos of that period...",
+        "views": 455,
+        "wordCount": 590,
+        "image":"https://i.pinimg.com/736x/67/76/7f/67767f14c63ad5d308a5bdea6580e6c0.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Alderny State Prison Scrutinized Following Daring Inmate Escape",
+        "date": "2024-09-25",
+        "category": "Security",
+        "content": "In a troubling incident, an inmate at Alderny State Prison recently escaped, raising questions about the prison’s security measures. This is the second high-profile escape in recent months, and the public is demanding answers...",
+        "views": 600,
+        "wordCount": 550,
+        "image":"https://i.pinimg.com/736x/67/76/7f/67767f14c63ad5d308a5bdea6580e6c0.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Shocking New Report Claims Officer Tenpenny's Actions Were Justified",
+        "date": "2024-11-11",
+        "category": "Crime",
+        "content": "In a controversial turn of events, a new independent investigation report has concluded that former Officer Frank Tenpenny's actions during his tenure with the Los Santos Police Department were, in fact, 'justified'...",
+        "views": 310,
+        "wordCount": 150,
+        "image":"https://i.pinimg.com/736x/67/76/7f/67767f14c63ad5d308a5bdea6580e6c0.jpg"
+      }
+    ]
+  }
+  
