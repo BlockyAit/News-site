@@ -19,16 +19,27 @@ body.dark-mode {
 }
 .navbar{
     background-color: #2b75e3; 
+    color: #ffffff;
 }
 .navbar-dark{
     background-color: #171717; 
+    color: #ffffff;
 }
-
+.navbar-toggler{
+    border-color: #ffffff;
+    color: #ffffff;
+}
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3E%3Cpath stroke='%23ffffff' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
 #theme{
     border-color: #ffffff;
     color: #ffffff;
 }
-
+#theme:hover{
+    border-color: #ffffff;
+    color: #5f5f5f;
+}
 body {
     background: linear-gradient(45deg, #eeeeee, rgb(219, 219, 219));
     font-family: Arial, sans-serif;
