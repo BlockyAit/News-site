@@ -72,17 +72,15 @@ function display(arti) {
 function inc(Id) {
     const artic = arti.find(artic => artic.id === Id);
     if (artic) {
-        artic.views += 1; // Increment the views for the clicked article
+        artic.views += 1;
         
-        // Update the views in localStorage
         const save = JSON.parse(localStorage.getItem("viewCounts")) || {};
         save[Id] = artic.views;
         localStorage.setItem("viewCounts", JSON.stringify(save));
 
-        // Re-render the articles to reflect updated views
         display(arti);
         displaypop();
-        displayRecent();  // Make sure the recent article's views are updated too
+        displayRecent();  
     }
 }
 
@@ -115,7 +113,6 @@ function upd(artic) {
         </div>
     `;
 
-    // Add event listener to increment views on click for the most popular article
     pop.querySelector('.article-link').addEventListener('click', function(event) {
         event.preventDefault();
         const id = parseInt(event.target.dataset.id);
@@ -136,7 +133,6 @@ function displayRecent() {
         </div>
     `;
 
-    // Add event listener to increment views on click for the most recent article
     recent.querySelector('.article-link').addEventListener('click', function(event) {
         event.preventDefault();
         const id = parseInt(event.target.dataset.id);
